@@ -1,0 +1,7 @@
+ip = 192.168.43.250  255.255.255.0
+gatewat 192.168.43.1
+nameserver 192.168.43.1
+root password : ossim
+
+
+MANAGEMNT IP CHANGED TO : 192.168.195.2 ON INTERFACE eth0 (ethernet)
